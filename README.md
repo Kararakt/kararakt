@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">У меня есть <a href="https://vue-portfolio-kararakt.vercel.app" rel="noreferrer" target="_blank">портфолио</a> на Vue, ознакомься с ним, как будет время.
+<p align="left">У меня есть <a href="https://vue-portfolio-kararakt.vercel.app" rel="noreferrer" target="_blank">портфолио</a> на Vue, не хочешь ознакомиться?.
 </p>
 
 ###
