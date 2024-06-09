@@ -22,7 +22,7 @@
 ###
 
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,vue,vite,webpack,git,nodejs,express" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,scss,vue,vite,webpack,git,nodejs,express" alt="js,ts,html,css,scss,vue,vite,webpack,git,nodejs,express" />
 </p>
 
 ###
@@ -40,7 +40,7 @@
 
 <p align="center">
   <a href="https://www.codewars.com/users/Kararakt" rel="noreferrer" target="_blank">
-    <img src="https://github.r2v.ch/codewars?user=Kararakt" />
+    <img src="https://github.r2v.ch/codewars?user=Kararakt" alt="Статистика CodeWars" />
   </a>
 </p>
 
